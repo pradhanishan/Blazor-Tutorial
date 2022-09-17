@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "TangyWeb_Server/1.0.0": {
+        "dependencies": {
+          "Tangy_Models": "1.0.0"
+        },
         "runtime": {
           "TangyWeb_Server.dll": {}
+        }
+      },
+      "Tangy_Models/1.0.0": {
+        "runtime": {
+          "Tangy_Models.dll": {}
         }
       }
     }
   },
   "libraries": {
     "TangyWeb_Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tangy_Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

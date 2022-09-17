@@ -1,0 +1,12 @@
+D:\Blazor-Tutorial\Tangy\Tangy_Models\bin\Debug\net6.0\Tangy_Models.deps.json
+D:\Blazor-Tutorial\Tangy\Tangy_Models\bin\Debug\net6.0\Tangy_Models.dll
+D:\Blazor-Tutorial\Tangy\Tangy_Models\bin\Debug\net6.0\Tangy_Models.pdb
+D:\Blazor-Tutorial\Tangy\Tangy_Models\obj\Debug\net6.0\Tangy_Models.csproj.AssemblyReference.cache
+D:\Blazor-Tutorial\Tangy\Tangy_Models\obj\Debug\net6.0\Tangy_Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blazor-Tutorial\Tangy\Tangy_Models\obj\Debug\net6.0\Tangy_Models.AssemblyInfoInputs.cache
+D:\Blazor-Tutorial\Tangy\Tangy_Models\obj\Debug\net6.0\Tangy_Models.AssemblyInfo.cs
+D:\Blazor-Tutorial\Tangy\Tangy_Models\obj\Debug\net6.0\Tangy_Models.csproj.CoreCompileInputs.cache
+D:\Blazor-Tutorial\Tangy\Tangy_Models\obj\Debug\net6.0\Tangy_Models.dll
+D:\Blazor-Tutorial\Tangy\Tangy_Models\obj\Debug\net6.0\refint\Tangy_Models.dll
+D:\Blazor-Tutorial\Tangy\Tangy_Models\obj\Debug\net6.0\Tangy_Models.pdb
+D:\Blazor-Tutorial\Tangy\Tangy_Models\obj\Debug\net6.0\ref\Tangy_Models.dll
