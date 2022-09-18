@@ -1,8 +1,22 @@
 ﻿<div class="bg-light border p-2 m-1 col-5" @onclick="(args) => HandleClickProduct(args,Product.Name)">
 	<h4 class="text-secondary"> Product - @Product.Id</h4>
-	Add to Favorite <input type="checkbox" @onchange="HandleCheckFavoriteItem"/> <br /><br />
+	Add to Favorite <input type="checkbox" @onchange="HandleCheckFavoriteItem" /> <br /><br />
 	Name - @Product.Name <br />
 	Show Properties : <input type="checkbox" @bind-value="@Product.IsActive" checked="@(@Product.IsActive?"checked":null)" />
+
+	@if (ChildContent != null)
+	{
+		<br />
+
+		<span>ChildContent</span>
+	}
+	@if (ChildContentTwo != null)
+	{
+		<br />
+
+		<span>ChildContentTwo</span>
+	}
+
 
 	@if (@Product.IsActive)
 	{
@@ -29,11 +43,21 @@
 	[Parameter]
 	public EventCallback<string> OnUpdateSelectedProduct { get; set; }
 
-	public async Task HandleCheckFavoriteItem(ChangeEventArgs e){
+	[Parameter]
+
+	public RenderFragment ChildContent { get; set; }
+
+	[Parameter]
+
+	public RenderFragment ChildContentTwo { get; set; }
+
+	public async Task HandleCheckFavoriteItem(ChangeEventArgs e)
+	{
 		await OnUpdateFavoritedCount.InvokeAsync((bool)e.Value);
 	}
 
-	public async Task HandleClickProduct(MouseEventArgs e, String ClickedProduct){
+	public async Task HandleClickProduct(MouseEventArgs e, String ClickedProduct)
+	{
 		await OnUpdateSelectedProduct.InvokeAsync(ClickedProduct);
 	}
 
