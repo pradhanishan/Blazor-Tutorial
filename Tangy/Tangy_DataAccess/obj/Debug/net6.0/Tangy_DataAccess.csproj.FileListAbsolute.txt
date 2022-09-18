@@ -1,0 +1,14 @@
+D:\Blazor-Tutorial\Tangy\Tangy_DataAccess\bin\Debug\net6.0\Tangy_DataAccess.deps.json
+D:\Blazor-Tutorial\Tangy\Tangy_DataAccess\bin\Debug\net6.0\Tangy_DataAccess.runtimeconfig.json
+D:\Blazor-Tutorial\Tangy\Tangy_DataAccess\bin\Debug\net6.0\Tangy_DataAccess.dll
+D:\Blazor-Tutorial\Tangy\Tangy_DataAccess\bin\Debug\net6.0\Tangy_DataAccess.pdb
+D:\Blazor-Tutorial\Tangy\Tangy_DataAccess\obj\Debug\net6.0\Tangy_DataAccess.csproj.AssemblyReference.cache
+D:\Blazor-Tutorial\Tangy\Tangy_DataAccess\obj\Debug\net6.0\Tangy_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blazor-Tutorial\Tangy\Tangy_DataAccess\obj\Debug\net6.0\Tangy_DataAccess.AssemblyInfoInputs.cache
+D:\Blazor-Tutorial\Tangy\Tangy_DataAccess\obj\Debug\net6.0\Tangy_DataAccess.AssemblyInfo.cs
+D:\Blazor-Tutorial\Tangy\Tangy_DataAccess\obj\Debug\net6.0\Tangy_DataAccess.csproj.CoreCompileInputs.cache
+D:\Blazor-Tutorial\Tangy\Tangy_DataAccess\obj\Debug\net6.0\Tangy_DataAccess.dll
+D:\Blazor-Tutorial\Tangy\Tangy_DataAccess\obj\Debug\net6.0\refint\Tangy_DataAccess.dll
+D:\Blazor-Tutorial\Tangy\Tangy_DataAccess\obj\Debug\net6.0\Tangy_DataAccess.pdb
+D:\Blazor-Tutorial\Tangy\Tangy_DataAccess\obj\Debug\net6.0\Tangy_DataAccess.genruntimeconfig.cache
+D:\Blazor-Tutorial\Tangy\Tangy_DataAccess\obj\Debug\net6.0\ref\Tangy_DataAccess.dll
