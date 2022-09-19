@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ULhVnDFTT2dJqDkP1cjKa8+sN9maRTgB179ZcD97kBI=",
+  "Hash": "/odsevnLYonsZWNoYcY0NFCTtb+omSL4jIFOs+XcXRE=",
   "Source": "TangyWeb_Server",
   "BasePath": "_content/TangyWeb_Server",
   "Mode": "Default",
@@ -270,6 +270,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Server\\wwwroot\\images\\loading.gif",
+      "SourceId": "TangyWeb_Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Server\\wwwroot\\",
+      "BasePath": "_content/TangyWeb_Server",
+      "RelativePath": "images/loading.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\loading.gif"
     },
     {
       "Identity": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Server\\wwwroot\\js\\common.js",

@@ -1,0 +1,56 @@
+﻿<div class="modal fade" data-backdrop="static" data-keyboard="false" id="deleteConfirmationModal" tabindex="-1" role="dialog">
+	<div class="modal-dialog  modal-dialog-centered" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title" id="exampleModalLabel">Confirm Delete</h5>
+				<button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+			<div class="modal-body">
+				Are you sure you want to delete
+			</div>
+			@if (IsParentComponentProcessing)
+			{
+				<div class="modal-footer">
+					<button type="button" class="btn btn-secondary" data-bs-dismiss="modal" disabled>
+						Cancel
+					</button>
+					<button type="button" class="btn btn-danger" disabled>
+						Processing...
+					</button>
+				</div>
+			}
+			else
+			{
+				<div class="modal-footer">
+					<button type="button" class="btn btn-secondary" data-bs-dismiss="modal" @onclick="(args) => ConfirmDelete(args,false)">
+						Cancel
+					</button>
+					<button type="button" class="btn btn-danger" @onclick="(args) => ConfirmDelete(args,true)">
+						Delete
+					</button>
+				</div>
+			}
+
+		</div>
+	</div>
+</div>
+
+@code {
+	[Parameter]
+	public EventCallback<bool> OnConfirmDelete { get; set; }
+
+	[Parameter]
+	public bool IsParentComponentProcessing { get; set; }
+
+	public async Task ConfirmDelete(MouseEventArgs e, bool isConfirmDelete)
+	{
+		if (isConfirmDelete)
+		{
+			await OnConfirmDelete.InvokeAsync(isConfirmDelete);
+		}
+
+	}
+
+}
