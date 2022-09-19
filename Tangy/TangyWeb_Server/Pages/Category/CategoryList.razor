@@ -65,6 +65,7 @@
 			await LoadCategories();
 		}
 
+
 	}
 
 	private async Task LoadCategories()
@@ -90,9 +91,11 @@
 
 			await Task.Delay(1000);
 
-			_categoryRepository.Delete(DeleteCategoryId);
-			_jsRuntime.InvokeVoidAsync("HideDeleteConfirmationModal");
-			LoadCategories();
+			await _categoryRepository.Delete(DeleteCategoryId);
+			await _jsRuntime.InvokeVoidAsync("HideDeleteConfirmationModal");
+			await LoadCategories();
+			StateHasChanged();
+
 		}
 		IsLoading = false;
 

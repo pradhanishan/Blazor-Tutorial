@@ -51,6 +51,7 @@
 		{
 			await _categoryRepository.Update(Category);
 		}
+	
 		_navigationManager.NavigateTo("/category");
 	}
 
@@ -64,6 +65,7 @@
 			if (Id == 0)
 			{
 				IsLoading = false;
+				StateHasChanged();
 
 			}
 			else

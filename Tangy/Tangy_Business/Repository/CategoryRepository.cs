@@ -27,7 +27,7 @@ namespace Tangy_Business.Repository
             Category obj = _mapper.Map<CategoryDTO, Category>(objDTO);
 
             await _db.Categories.AddAsync(obj);
-            _db.SaveChangesAsync();
+            await _db.SaveChangesAsync();
 
             return _mapper.Map<Category, CategoryDTO>(obj);
 
