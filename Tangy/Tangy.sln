@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tangy_DataAccess", "Tangy_D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tangy_Business", "Tangy_Business\Tangy_Business.csproj", "{7D002640-3144-4A9B-97FD-531743E2B804}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangyWeb_API", "TangyWeb_API\TangyWeb_API.csproj", "{001E13B1-3262-42CC-905A-B62C27CCFC89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TangyWeb_API", "TangyWeb_API\TangyWeb_API.csproj", "{001E13B1-3262-42CC-905A-B62C27CCFC89}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TangyWeb_Client", "TangyWeb_Client\TangyWeb_Client.csproj", "{2B644ACE-36FC-4A04-A474-553459EB2BF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{001E13B1-3262-42CC-905A-B62C27CCFC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{001E13B1-3262-42CC-905A-B62C27CCFC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{001E13B1-3262-42CC-905A-B62C27CCFC89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B644ACE-36FC-4A04-A474-553459EB2BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B644ACE-36FC-4A04-A474-553459EB2BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B644ACE-36FC-4A04-A474-553459EB2BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B644ACE-36FC-4A04-A474-553459EB2BF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
