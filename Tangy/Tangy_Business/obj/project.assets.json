@@ -754,6 +754,16 @@
           }
         }
       },
+      "Tangy_Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Tangy_Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tangy_Common.dll": {}
+        }
+      },
       "Tangy_DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1960,6 +1970,11 @@
         "version.txt"
       ]
     },
+    "Tangy_Common/1.0.0": {
+      "type": "project",
+      "path": "../Tangy_Common/Tangy_Common.csproj",
+      "msbuildProject": "../Tangy_Common/Tangy_Common.csproj"
+    },
     "Tangy_DataAccess/1.0.0": {
       "type": "project",
       "path": "../Tangy_DataAccess/Tangy_DataAccess.csproj",
@@ -1974,6 +1989,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "AutoMapper >= 11.0.1",
+      "Tangy_Common >= 1.0.0",
       "Tangy_DataAccess >= 1.0.0",
       "Tangy_Models >= 1.0.0"
     ]
@@ -2005,6 +2021,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "D:\\Blazor-Tutorial\\Tangy\\Tangy_Common\\Tangy_Common.csproj": {
+              "projectPath": "D:\\Blazor-Tutorial\\Tangy\\Tangy_Common\\Tangy_Common.csproj"
+            },
             "D:\\Blazor-Tutorial\\Tangy\\Tangy_DataAccess\\Tangy_DataAccess.csproj": {
               "projectPath": "D:\\Blazor-Tutorial\\Tangy\\Tangy_DataAccess\\Tangy_DataAccess.csproj"
             },

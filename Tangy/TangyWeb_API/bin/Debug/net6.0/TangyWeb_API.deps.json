@@ -482,11 +482,17 @@
       "Tangy_Business/1.0.0": {
         "dependencies": {
           "AutoMapper": "11.0.1",
+          "Tangy_Common": "1.0.0",
           "Tangy_DataAccess": "1.0.0",
           "Tangy_Models": "1.0.0"
         },
         "runtime": {
           "Tangy_Business.dll": {}
+        }
+      },
+      "Tangy_Common/1.0.0": {
+        "runtime": {
+          "Tangy_Common.dll": {}
         }
       },
       "Tangy_DataAccess/1.0.0": {
@@ -849,6 +855,11 @@
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
     "Tangy_Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tangy_Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

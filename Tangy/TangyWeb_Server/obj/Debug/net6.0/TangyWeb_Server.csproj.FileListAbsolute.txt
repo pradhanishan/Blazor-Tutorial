@@ -68,3 +68,5 @@ D:\Blazor-Tutorial\Tangy\TangyWeb_Server\obj\Debug\net6.0\refint\TangyWeb_Server
 D:\Blazor-Tutorial\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.pdb
 D:\Blazor-Tutorial\Tangy\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.genruntimeconfig.cache
 D:\Blazor-Tutorial\Tangy\TangyWeb_Server\obj\Debug\net6.0\ref\TangyWeb_Server.dll
+D:\Blazor-Tutorial\Tangy\TangyWeb_Server\bin\Debug\net6.0\Tangy_Common.dll
+D:\Blazor-Tutorial\Tangy\TangyWeb_Server\bin\Debug\net6.0\Tangy_Common.pdb

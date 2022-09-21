@@ -9,6 +9,7 @@
       "Tangy_Business/1.0.0": {
         "dependencies": {
           "AutoMapper": "11.0.1",
+          "Tangy_Common": "1.0.0",
           "Tangy_DataAccess": "1.0.0",
           "Tangy_Models": "1.0.0"
         },
@@ -469,6 +470,11 @@
           }
         }
       },
+      "Tangy_Common/1.0.0": {
+        "runtime": {
+          "Tangy_Common.dll": {}
+        }
+      },
       "Tangy_DataAccess/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.9",
@@ -778,6 +784,11 @@
       "sha512": "sha512-CeWTdRNfRaSh0pm2gDTJFwVaXfTq6Xwv/sA887iwPTneW7oMtMlpvDIO+U60+3GWTB7Aom6oQwv5VZVUhQRdPQ==",
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
+    },
+    "Tangy_Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Tangy_DataAccess/1.0.0": {
       "type": "project",
