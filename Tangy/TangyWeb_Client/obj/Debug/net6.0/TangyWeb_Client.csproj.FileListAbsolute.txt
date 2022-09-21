@@ -825,3 +825,15 @@ D:\Blazor-Tutorial\Tangy\TangyWeb_Client\obj\Debug\net6.0\TangyWeb_Client.dll
 D:\Blazor-Tutorial\Tangy\TangyWeb_Client\obj\Debug\net6.0\refint\TangyWeb_Client.dll
 D:\Blazor-Tutorial\Tangy\TangyWeb_Client\obj\Debug\net6.0\TangyWeb_Client.pdb
 D:\Blazor-Tutorial\Tangy\TangyWeb_Client\obj\Debug\net6.0\ref\TangyWeb_Client.dll
+D:\Blazor-Tutorial\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll
+D:\Blazor-Tutorial\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\Tangy_Common.dll
+D:\Blazor-Tutorial\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\Tangy_Common.pdb
+D:\Blazor-Tutorial\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
+D:\Blazor-Tutorial\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\Tangy_Common.dll.gz
+D:\Blazor-Tutorial\Tangy\TangyWeb_Client\bin\Debug\net6.0\wwwroot\_framework\Tangy_Common.pdb.gz
+D:\Blazor-Tutorial\Tangy\TangyWeb_Client\bin\Debug\net6.0\Blazored.LocalStorage.dll
+D:\Blazor-Tutorial\Tangy\TangyWeb_Client\bin\Debug\net6.0\Tangy_Common.dll
+D:\Blazor-Tutorial\Tangy\TangyWeb_Client\bin\Debug\net6.0\Tangy_Common.pdb
+D:\Blazor-Tutorial\Tangy\TangyWeb_Client\obj\Debug\net6.0\build-gz\33Ej8HMR.gz
+D:\Blazor-Tutorial\Tangy\TangyWeb_Client\obj\Debug\net6.0\build-gz\dwrZDx6y.gz
+D:\Blazor-Tutorial\Tangy\TangyWeb_Client\obj\Debug\net6.0\build-gz\XsDyEYlE.gz

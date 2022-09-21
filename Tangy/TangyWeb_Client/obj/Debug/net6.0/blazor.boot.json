@@ -9,6 +9,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
+      "Blazored.LocalStorage.dll": "sha256-6RRoYeDP3d0xabXmcCMF66wXeJlXVPem28Trs8sQiis=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-UrVyaila4UaM9NG7wgfD9o+ih1r3xt3rq4W7Z+SCE3w=",
       "Microsoft.AspNetCore.Components.dll": "sha256-8yq2GCAfNZmhru8HZW\/xr9jDHwAS+MD4B1GGQFzi2Pg=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-I5BEosbTOX5zg7agqWZo14z3aViOJYbMCWeRLInDYiQ=",
@@ -199,15 +200,17 @@
       "mscorlib.dll": "sha256-TYLzIm125RbnX9+RAPqJnwZhd6CnQpJcrjiMpJfZ720=",
       "netstandard.dll": "sha256-HhuK9zDkd1N7hODAEiNJ11VF8T54IgrM6hZfLHmHdqM=",
       "System.Private.CoreLib.dll": "sha256-dXaTqyg1PnXPiSwywpic1PVrd7P8Vb5tN0i0\/urdt3E=",
+      "Tangy_Common.dll": "sha256-Pd+9eHjgBuLwCKZFGM150tKP67FwvxuBSi0+jdRWTtg=",
       "Tangy_Models.dll": "sha256-9S51iSslW4xSycs7nthUmwXuDsXlNb66KKbomHC1y4c=",
-      "TangyWeb_Client.dll": "sha256-Rnv3JUhwsaQPoQFd67eCpbQn0McUryw8tEXOZGX+1D4="
+      "TangyWeb_Client.dll": "sha256-5AhqSbX7FR4Z3XwdsFQePfIVISWtkQ1qGuJgbg5ADF8="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
+      "Tangy_Common.pdb": "sha256-7Eca8dWxcsV7FbtPkxGUKLCjheoE+8TSESonoEPiZ+Y=",
       "Tangy_Models.pdb": "sha256-6X4kRJN0\/0Bj00EimWHqU5LiiLaq6sE1iYHf38fKjVU=",
-      "TangyWeb_Client.pdb": "sha256-RodyXzzuNmc8soXFjAlb9qc8NkCW3X8+0qVNpapyEXQ="
+      "TangyWeb_Client.pdb": "sha256-KuHK3dWcyWRi+OqDUHg7Y2UjE2xes0M5Rxv18krLKAA="
     },
     "runtime": {
       "dotnet.6.0.8.0erzr5p10q.js": "sha256-WT60vnXnQtCNURE40qo+XSL1o4iYFvABy0NVaFhm7MI=",

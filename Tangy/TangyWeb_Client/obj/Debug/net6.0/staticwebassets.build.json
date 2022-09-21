@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kIVIZjcOkvYKVt1Rk8RZ5n4eBMypFU2V4NV6LbEzSNo=",
+  "Hash": "29hHdUIesK5QE1xUlxmkaO1Zzn6igpGtjnzW7fMPJR8=",
   "Source": "TangyWeb_Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.8\\build\\net6.0\\blazor.webassembly.js"
+    },
+    {
+      "Identity": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll",
+      "SourceId": "TangyWeb_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\i7p7x\\.nuget\\packages\\blazored.localstorage\\4.2.0\\lib\\net6.0\\Blazored.LocalStorage.dll"
     },
     {
       "Identity": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.6.0.8.0erzr5p10q.js",
@@ -3383,6 +3400,40 @@
       "OriginalItemSpec": "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.8\\runtimes\\browser-wasm\\lib\\net6.0\\System.Xml.XPath.XDocument.dll"
     },
     {
+      "Identity": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Tangy_Common.dll",
+      "SourceId": "TangyWeb_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Tangy_Common.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Blazor-Tutorial\\Tangy\\Tangy_Common\\bin\\Debug\\net6.0\\Tangy_Common.dll"
+    },
+    {
+      "Identity": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Tangy_Common.pdb",
+      "SourceId": "TangyWeb_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Tangy_Common.pdb",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "symbol",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Blazor-Tutorial\\Tangy\\Tangy_Common\\bin\\Debug\\net6.0\\Tangy_Common.pdb"
+    },
+    {
       "Identity": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Tangy_Models.dll",
       "SourceId": "TangyWeb_Client",
       "SourceType": "Computed",
@@ -3670,6 +3721,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Extensions.dll"
+    },
+    {
+      "Identity": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\obj\\Debug\\net6.0\\build-gz\\33Ej8HMR.gz",
+      "SourceId": "TangyWeb_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll"
     },
     {
       "Identity": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\obj\\Debug\\net6.0\\build-gz\\37sWa8ey.gz",
@@ -4367,6 +4435,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Tasks.Parallel.dll"
+    },
+    {
+      "Identity": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\obj\\Debug\\net6.0\\build-gz\\dwrZDx6y.gz",
+      "SourceId": "TangyWeb_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Tangy_Common.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Tangy_Common.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Tangy_Common.dll"
     },
     {
       "Identity": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\obj\\Debug\\net6.0\\build-gz\\dZo70PUh.gz",
@@ -6696,6 +6781,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.dll"
+    },
+    {
+      "Identity": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\obj\\Debug\\net6.0\\build-gz\\XsDyEYlE.gz",
+      "SourceId": "TangyWeb_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Tangy_Common.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Tangy_Common.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Tangy_Common.pdb"
     },
     {
       "Identity": "D:\\Blazor-Tutorial\\Tangy\\TangyWeb_Client\\obj\\Debug\\net6.0\\build-gz\\XsXsTE80.gz",
